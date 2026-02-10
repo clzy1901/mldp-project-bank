@@ -1,0 +1,6 @@
+# Jupyter
+*.ipynb
+notebooks/
+
+# ML artifacts (keep local, don't push)
+*.pkl
